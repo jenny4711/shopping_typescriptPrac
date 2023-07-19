@@ -1,0 +1,10 @@
+.ItemCard{
+  display: flex;
+  flex-direction: column;
+  margin:20px;
+}
+.ItemCard img:hover{
+  position:absolute;
+  width:50rem;
+  height:50rem;
+}

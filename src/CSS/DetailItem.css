@@ -1,0 +1,35 @@
+.DetailItem{
+  display:flex;
+  justify-content: center;
+  
+
+}
+
+
+.disc{
+  display: flex;
+  flex-direction: column;
+  width:20rem;
+  margin:50px;
+  justify-content: flex-start;
+  
+  
+
+}
+.newItem{
+  color:red;
+}
+.disc select{
+  width:10rem;
+  margin-left:5rem;
+}
+.disc button{
+  background-color: black;
+  color:white;
+}
+
+.DetailItem img:hover{
+  position:absolute;
+  width:50rem;
+  height:50rem;
+}
